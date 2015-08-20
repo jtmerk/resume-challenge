@@ -1,0 +1,205 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+	background-color: white;
+}
+
+.info-contact {
+	text-align: center;
+	background-color: gainsboro;
+	border-bottom: 5px solid slategray;
+	margin-bottom: 60px;
+	padding-bottom: 10px;
+	margin-top: -40px;
+}
+
+.info-contact h1 {
+	font-size: 60px;
+	margin-bottom: -35px;
+	color: white; 
+	text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+.info-contact h2 {
+	font-size: 30px;
+	font-style: italic;
+	font-variant: small-caps;
+	color: tomato;
+	text-shadow: 0 1px 0 #ccc,
+               0 2px 0 #c9c9c9,
+               0 3px 0 #bbb,
+               0 4px 0 #b9b9b9,
+               0 5px 0 #aaa,
+               0 6px 1px rgba(0,0,0,.1),
+               0 0 5px rgba(0,0,0,.1),
+               0 1px 3px rgba(0,0,0,.3),
+               0 3px 5px rgba(0,0,0,.2),
+               0 5px 10px rgba(0,0,0,.25),
+               0 10px 10px rgba(0,0,0,.2),
+               0 20px 20px rgba(0,0,0,.15);
+}
+
+.info-contact h3 {
+	display: inline;
+	padding-right: 35px;
+	color: slategray;
+	text-shadow: 1px 1px white;
+}
+
+.about-me h2, .professional-experience h2, .education h2 {
+	font-size: 30px;
+	color: tomato;
+	text-shadow: 0px .5px slategray;
+	padding-left: 10px;
+	padding-bottom: 10px;
+}
+
+.about-me p {
+	font-size: 18px;
+	padding-left: 30px;
+	margin-top: -10px;
+	font-style: oblique;
+}
+
+.pc-technician-info h1 {
+	font-size: 25px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.pc-technician-info h2 {
+	font-size: 20px;
+	padding-left: 30px;
+	margin-top: -15px;
+	color: black;
+	font-style: oblique;
+} 
+
+.pc-technician-info h3 {
+	font-size: 15px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.pc-technician-content {
+	font-size: 18px;
+	padding-left: 30px;
+	margin-top: -10px;
+}
+
+.graphic-designer-info h1 {
+	font-size: 25px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.graphic-designer-info h2 {
+	font-size: 20px;
+	padding-left: 30px;
+	margin-top: -15px;
+	color: black;
+	font-style: oblique;
+} 
+
+.graphic-designer-info h3 {
+	font-size: 15px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.graphic-designer-content {
+	font-size: 18px;
+	padding-left: 30px;
+	margin-top: -10px;
+}
+
+.tournament-director-info h1 {
+	font-size: 25px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.tournament-director-info h2 {
+	font-size: 20px;
+	padding-left: 30px;
+	margin-top: -15px;
+	color: black;
+	font-style: oblique;
+} 
+
+.tournament-director-info h3 {
+	font-size: 15px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.tournament-director-content {
+	font-size: 18px;
+	padding-left: 30px;
+	margin-top: -10px;
+}
+
+.education-info h1 {
+	font-size: 25px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.education-info h2 {
+	font-size: 20px;
+	padding-left: 30px;
+	margin-top: -15px;
+	color: black;
+	font-style: oblique;
+} 
+
+.education-info h3 {
+	font-size: 15px;
+	padding-left: 30px;
+	margin-top: -15px;
+} 
+
+.education-content {
+	font-size: 18px;
+	padding-left: 30px;
+	margin-top: -10px;
+}
+
+footer {
+	float: bottom;
+	background-color: gainsboro;
+	border-bottom: 5px solid slategray;
+	margin-bottom: 0px;
+	padding-bottom: 10px;
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
